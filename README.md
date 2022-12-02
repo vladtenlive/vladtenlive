@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vladtenlive
+- 👀 Golang
+- 🌱 Software Engineer | Microsoft
+- 📫 vlad010694@gmail.com
