@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vladtenlive
 - 👀 Golang
-- 🌱 Software Engineer | Microsoft
+- 🌱 Software Engineer
 - 📫 vlad010694@gmail.com
