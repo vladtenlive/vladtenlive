@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @vladtenlive
-- 👀 Golang
-- 🌱 Software Engineer
-- 📫 vlad010694@gmail.com
+1010
